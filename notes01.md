@@ -1,6 +1,6 @@
 # object orientate programming notes 1
 
-I think OPP is awesome:D
+I think OPP is awesome!
 
 ```python 
 # Example
@@ -17,3 +17,8 @@ class Person:
        
 
 ```(Tilda button)
+
+## Definitions
+-Encapsulation
+-Polymorphism
+-Override
