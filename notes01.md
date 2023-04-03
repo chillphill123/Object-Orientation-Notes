@@ -42,6 +42,7 @@ student1 = Person() # student1 is now a person object
 
 
 '''
+# My own class
 class Person:
     def __init__(self, name, last, age, height):
         self.name = name
@@ -58,10 +59,14 @@ class Person:
         return self.age
 
 person1 = Person('phill', 'shapiro', '17', "6'1")
+# person1(me) is now an object
 print(person1.setage())
+# Calling method
 person1.setbirth(2005)
+# calling method aswell as setting parameter
 print(person1.birth)
 print(person1)
+# Another class of myself (practice)
 class Mee:
     def __init__(self, name, last, height, birth):
         self.first = name
