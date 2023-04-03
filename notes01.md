@@ -22,7 +22,8 @@ class Person:
 -Encapsulation
 -Polymorphism
 -Override
-OOP 1 slideshow notes
+
+OOP 1 SLIDESHOW NOTES
 
 # Class: An abstract description of all objects that can be made from this set class where an object can be instantiated from.
 # Attributes of the class are the objects accesible tools (What an object could be)
