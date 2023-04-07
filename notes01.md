@@ -305,7 +305,7 @@ OOP 3
 
 # inheritance
 # when I see a bird that walks like a duck and swims like a duck that bird is a duck to me
-#  Inheritance is when an object or class is based on another class; where its features are from a parent class
+# Inheritance is when an object or class is based on another class; where its features are from a parent class
 # types of inheritance:
 # single inheritance:  a subclass inheriting the features of a single superclass.
 # multple  inheritance: a subclass inheriting the features of a multiple parent class.
